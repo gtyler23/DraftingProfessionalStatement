@@ -1,49 +1,17 @@
-<h1>Drafting a Personal Statement</h1>
+<h1>Drafting a Personal / Professional Statement</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+You are excited to enter the field of cybersecurity. As you search for jobs, you find an entry-level cybersecurity position that interests you and aligns to your skills and knowledge. 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Personal Statement</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+I am a loving father to a beautiful family of 6 (5 kids and wife), and a U.S. Coast Guard Officer who HONORABLY served his country for 15 years, with four of those years serving in the U.S. Navy in aviation.  During my tenure of multiple jobs and responsibilities throughout my highly dynamic military career, my most promising and enjoyable moment was serving as an Information Systems Technician (IT).  I enjoy learning and hold multiple IT certificates and a myriad of degrees, including a Masters.  I like creating spreadsheets for organizational purposes, and enjoy analyzing complex problems.  I have a passion for technology and a desire for helping others through collaboration, mentoring and being a mentee.  I am extremely interested in the field of security and want to build off my current IT skills and former military background to obtain an entry-level cybersecurity position that will utilize my drive and thirst for knowledge, and to maximize my contribution to the organization, community, and country as a military veteran.
 
-<h2>Environments Used </h2>
+<h2>Professional Statement</h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+I have consistently proven my ability to meet deadlines and achieve project objectives, solve mission-critical problems and prioritize crucial tasks while maintaining the high standards expected of my role. I am currently seeking a long-term position to make significant contributions and advance within the organization.
 
 <!--
  ```diff
