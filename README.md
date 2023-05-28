@@ -11,7 +11,7 @@ I am a loving father to a beautiful family of 6 (5 kids and wife), and a U.S. Co
 
 <h2>Professional Statement</h2>
 
-I have consistently proven my ability to meet deadlines and achieve project objectives, solve mission-critical problems and prioritize crucial tasks while maintaining the high standards expected of my role. I am currently seeking a long-term position to make significant contributions through the commitment of meeting organizational objectives through safeguarding business and client assets.
+I have consistently proven my ability to meet deadlines and achieve project objectives, solve mission-critical problems and prioritize crucial tasks while maintaining the high standards expected of my role. I am currently seeking a long-term position to make significant contributions through the commitment and dedication in meeting organizational objectives through safeguarding both business and client assets.
 
 <!--
  ```diff
