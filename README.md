@@ -1,7 +1,7 @@
 <h1>Drafting a Personal / Professional Statement</h1>
 
 <h2>Description</h2>
-You are excited to enter the field of cybersecurity. As you search for jobs, you find an entry-level cybersecurity position that interests you and aligns to your skills and knowledge. 
+A professional statement is an introduction to employers that briefly describes who you are and what you care about. It allows you to showcase your interest in cybersecurity, work experience, knowledge, skills, and achievements.  Below are two genuine statements that represent who I am and what I can contribute to the cybersecurity community.
 <br />
 
 
